@@ -28,6 +28,3 @@ app.post("/", function(req, res){
 app.listen(3000, function(){
 	console.log("Server is running on port 3000.");
 })
-
-//mailchimp API
-//eab5533cebb20410eb2ac55333ba11e3-us1
